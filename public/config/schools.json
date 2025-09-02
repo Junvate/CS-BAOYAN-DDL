@@ -3474,7 +3474,7 @@
         {
             "name": "中国传媒大学",
             "institute": "ALL",
-            "description": "计算机与网络空间安全学院",
+            "description": "复试时间拟定为9月18日-9月20日，具体安排请关注学院（研究院、实验室）通知。\n从2023级研究生开始，我校对于专业学位研究生（专项计划除外）只提供第一年住宿",
             "deadline": "2025-09-11T20:00:00+08:00",
             "website": "https://yz.cuc.edu.cn/2025/0830/c8678a259447/page.htm",
             "tags": [
@@ -3620,6 +3620,17 @@
             "description": "预推免",
             "deadline": "2025-09-15T00:00:00+08:00",
             "website": "http://gs.ccnu.edu.cn/info/1028/5023.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-19T09:00:00+08:00",
+            "website": "https://gschool.ecust.edu.cn/2025/0826/c12754a181610/page.htm",
             "tags": [
                 "211"
             ],
